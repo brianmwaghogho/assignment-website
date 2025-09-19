@@ -20,4 +20,4 @@ You can host this site using:
 - **Netlify** or **Vercel**: Import repo and auto-deploy  
 
 ## Live URL
-👉 [Add your deployed link here after hosting]
+👉 [https://brianmwaghogho.github.io/assignment-website/index.html
